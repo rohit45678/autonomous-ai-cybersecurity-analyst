@@ -1,0 +1,1 @@
+{"known_good_domains":["download.windowsupdate.com","update.microsoft.com","officecdn.microsoft.com","ocsp.digicert.com"],"malicious_domains":["cdn-sync.xdata-relay.net","xdata-relay.net"],"malicious_hashes":["9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08"],"malicious_ips":["203.0.113.77","203.0.113.99","192.0.2.140"],"scanner_ips":["10.9.0.10"]}
